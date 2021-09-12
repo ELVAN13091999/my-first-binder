@@ -1,2 +1,2 @@
 # my-first-binder
-JupyterLab-Browser
+Using JupyterLab-Browser to explore data with pandas framework in python programming language
