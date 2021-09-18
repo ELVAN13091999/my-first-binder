@@ -1,2 +1,2 @@
 # my-first-binder
-Using JupyterLab-Browser and https://colab.research.google.com/ to explore data with pandas framework in python programming language
+Using JupyterLab-Browser and https://colab.research.google.com/ in python programming language
